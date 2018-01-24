@@ -7,6 +7,7 @@ function forLoop(array){
     array[i]=`I am ${i} strange loop`;
     }
   }
-  return array;
   console.log(array);
+  return array;
+  
 }

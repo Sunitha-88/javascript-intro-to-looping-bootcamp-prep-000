@@ -10,3 +10,5 @@ function forLoop(array){
   console.log(array);
   return array;
 }
+var array=[];
+forLoop(array);
